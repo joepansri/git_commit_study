@@ -1,5 +1,5 @@
 <?php
-$comment = '少し理解したかも。';
+$comment = '修正しました。';
 $comment .= 'aiueo';
 echo 'github_study' . $comment;
 ?>
